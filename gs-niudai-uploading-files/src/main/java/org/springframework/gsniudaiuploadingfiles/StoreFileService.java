@@ -24,7 +24,7 @@ public class StoreFileService implements StoreService {
     private final Path rootDirectory; // 存储用户名的文件夹位置
 
     /**
-     * 传入了一个参数：storeProperties，故名思意就是“存储属性”，一切关于存储
+     * 传入了一个参数：storeProperties，就是“存储属性”，一切关于存储
      * 有关的属性，比如用户文件存储在哪里，一个文件夹里最多储存多少文件等，这些
      * 属性都存储在storeProperties中。
      * 使用@Autowired让IoC容器自动注入你的StoreProperties依赖。

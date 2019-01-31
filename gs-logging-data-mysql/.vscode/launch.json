@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Application",
+            "request": "launch",
+            "mainClass": "org.springframework.gsloggingdatamysql.Application",
+            "projectName": "gs-logging-data-mysql"
+        }
+    ]
+}
