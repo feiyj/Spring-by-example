@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "org.springframework.gsniudaiuploadingfiles.Test",
+            "projectName": "gs-niudai-uploading-files"
+        }
+    ]
+}
